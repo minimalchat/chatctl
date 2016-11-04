@@ -1,5 +1,6 @@
 # chatctl
 
+[![GoDoc](https://godoc.org/github.com/mihok/chatctl?status.svg)](https://godoc.org/github.com/mihok/chatctl)
 [![Build Status](https://travis-ci.org/mihok/chatctl.svg?branch=master)](https://travis-ci.org/mihok/chatctl)
 [![Coverage Status](https://coveralls.io/repos/github/mihok/chatctl/badge.svg?branch=master)](https://coveralls.io/github/mihok/chatctl?branch=master)
 
