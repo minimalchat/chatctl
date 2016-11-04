@@ -30,7 +30,24 @@ Download the prebuilt binaries available in the [releases]() section or clone th
 Use the following syntax to run chatctl commands from your terminal window:
 
 ```
-chatctl [flags] COMMAND
+chatctl controls the Chat daemon
+
+Find more information at https://github.com/letschat/chatctl
+
+Usage:
+	chatctl [flags] COMMAND
+	chatctl COMMAND
+
+Commands:
+  get	Display one or many resources
+  config	Modifies config files
+
+Flags:
+  -api-server address
+    	The address of the API server (default "http://localhost:8000")
+  -config file
+    	Path to chat config file, specifying operator and how to authenticate to the API server (default "~/.chatrc")
+
 ```
 
 See the current chats available

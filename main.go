@@ -30,8 +30,8 @@ func help() {
   fmt.Println("Find more information at https://github.com/letschat/chatctl\n")
 
   fmt.Println("Usage:")
-  fmt.Println("\tchatctl [flags]")
-  fmt.Println("\tchatctl [command]\n")
+  fmt.Println("\tchatctl [flags] COMMAND")
+  fmt.Println("\tchatctl COMMAND\n")
 
   fmt.Println("Commands:")
   fmt.Println("  get\tDisplay one or many resources")
