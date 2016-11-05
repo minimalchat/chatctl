@@ -1,20 +1,20 @@
 # chatctl
 
-[![GoDoc](https://godoc.org/github.com/mihok/chatctl?status.svg)](https://godoc.org/github.com/mihok/chatctl)
-[![Build Status](https://travis-ci.org/mihok/chatctl.svg?branch=master)](https://travis-ci.org/mihok/chatctl)
-[![Coverage Status](https://coveralls.io/repos/github/mihok/chatctl/badge.svg?branch=master)](https://coveralls.io/github/mihok/chatctl?branch=master)
+[![GoDoc](https://godoc.org/github.com/minimalchat/chatctl?status.svg)](https://godoc.org/github.com/minimalchat/chatctl)
+[![Build Status](https://travis-ci.org/minimalchat/chatctl.svg?branch=master)](https://travis-ci.org/minimalchat/chatctl)
+[![Coverage Status](https://coveralls.io/repos/github/minimalchat/chatctl/badge.svg?branch=master)](https://coveralls.io/github/minimalchat/chatctl?branch=master)
 
 ---
 
-Let's Chat is an open source live chat system providing live one on one messaging to a website visitor and an operator.
+Minimal Chat is an open source live chat system providing live one on one messaging to a website visitor and an operator.
 
-Let's Chat is:
+Minimal Chat is:
 -   **minimal**: simple, lightweight, accessible
 -   **extensible**: modular, pluggable, hookable, composable
 
 ---
 
-Let's Chat CLI tool for interacting with the [letschat-daemon](https://github.com/mihok/letschat-daemon).
+Minimal Chat CLI tool for interacting with the [letschat-daemon](https://github.com/mihok/letschat-daemon).
 
 ### installation
 
