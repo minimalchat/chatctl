@@ -2,6 +2,7 @@ language: go
 go:
   - 1.7
 install:
+  - go get github.com/golang/lint/golint
   - go get github.com/minimalchat/mnml-daemon
   - go get golang.org/x/tools/cmd/cover
   - go get github.com/go-playground/overalls
