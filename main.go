@@ -8,8 +8,8 @@ import (
   // "encoding/json"
   // "io/ioutil"
 
-  "github.com/mihok/chatctl/commands"
-  "github.com/mihok/letschat-daemon/operator"
+  "github.com/minimalchat/chatctl/commands"
+  "github.com/minimalchat/mnml-daemon/operator"
 )
 
 type configuration struct {
