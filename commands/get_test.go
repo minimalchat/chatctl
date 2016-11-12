@@ -1,4 +1,4 @@
-package person
+package cmds
 
 import "testing"
 
